@@ -9,6 +9,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohrs23&show_icons=true&theme=dracula)
 
+# About Me
+😃Hello, my name is Pedro Henrique. I'm 26 years old and new at the technology industry, but I have experience on working on computers since I was 9. I've always had the curiosity and the passion to understand it's mechanisms and inner workings. It's with great happiness that I'm currently studying the I.T. area that I enjoy so much on the course of System Analysis and Development on Uninassau, a great university with great teachers, and it's being a very gratifying. I'm excited to have my first job officially on the area that i'm learning, to have new experiences and to add more to my personal and professional development.
+
+Well, that is me, Pedro Henrique, and I hope that you've enjoyed reading about me so far. If you have any questions, want to talk to me, make me a proposition or even to give me suggestions, feel free to contact me via Linkedin by chat. Also give a look on my portifolio, soon I'll be creating a site from the ground up, but for now I'll just have a simpler one with basic directions. That's all for now.
+
+See you Later!!❤️
+
 # Tecnologias em desenvolvimento
 <div style="display: inlink_block"><br/>
     <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
